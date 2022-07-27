@@ -2,8 +2,8 @@ lockfileVersion: 5.4
 
 importers:
 
-  .:
+  projects/proj1:
     specifiers:
-      '@pack/utils': workspace:^1.0.0
+      '@pack/pack1': workspace:^1.0.0
     dependencies:
-      '@pack/utils': link:packages/utils
+      '@pack/pack1': link:../../packages/pack1

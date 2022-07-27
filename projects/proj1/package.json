@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "pack1": "workspace:^1.0.0"
+    "@pack/pack1": "workspace:^1.0.0"
   }
 }
