@@ -1,11 +1,10 @@
 {
-  "name": "ju_pnpm_mono",
+  "name": "pack2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test1": "pnpm -F pack1 test",
-    "test2": "pnpm -F pack2 test"
+    "test": "node index.js"
   },
   "keywords": [],
   "author": "",
