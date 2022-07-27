@@ -1,8 +1,9 @@
 {
-  "name": "pack2",
+  "name": "@pack/utils",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "node index.js"
   },
