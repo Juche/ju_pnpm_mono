@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test1": "pnpm -F pack1 test",
-    "test2": "pnpm -F pack2 test"
+    "test2": "pnpm -F pack2 test",
+    "dev:proj1": "pnpm -F proj1 dev"
   },
   "keywords": [],
   "author": "",

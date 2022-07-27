@@ -1,0 +1,16 @@
+{
+  "name": "proj1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pack1": "workspace:^1.0.0"
+  }
+}
